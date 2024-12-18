@@ -28,7 +28,7 @@ Repositório criado para acompanhar as aulas do **Curso de JavaScript e ECMAScri
 
 ## 🔧 Como Usar
 
-<<<<<<< HEAD
+HEAD
 
 1. Clone o repositório:
 
