@@ -28,8 +28,16 @@ Repositório criado para acompanhar as aulas do **Curso de JavaScript e ECMAScri
 
 ## 🔧 Como Usar
 
+<<<<<<< HEAD
+
 1. Clone o repositório:
 
    ```bash
    git clone https://github.com/seu-usuario/nome-do-repo.git
    ```
+
+=======
+
+```bash
+git clone https://github.com/seu-usuario/nome-do-repo.git
+```
