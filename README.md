@@ -35,9 +35,3 @@ Repositório criado para acompanhar as aulas do **Curso de JavaScript e ECMAScri
    ```bash
    git clone https://github.com/seu-usuario/nome-do-repo.git
    ```
-
-=======
-
-```bash
-git clone https://github.com/seu-usuario/nome-do-repo.git
-```
