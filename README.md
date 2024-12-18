@@ -1,5 +1,11 @@
 # JavaScript Learning Track
 
+````markdown
+## 📝 Conteúdo
+
+2. **Dicas de Aprendizagem**
+   - Consulte o [Guia JavaScript da MDN](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide) para documentação oficial.
+
 ## 📚 Curso de JavaScript para Iniciantes
 
 Repositório criado para acompanhar as aulas do **Curso de JavaScript e ECMAScript para Iniciantes**, ministrado pelo professor **Gustavo Guanabara** no canal **Curso em Vídeo** e patrocinado pela **Google**.
@@ -35,3 +41,4 @@ HEAD
    ```bash
    git clone https://github.com/seu-usuario/nome-do-repo.git
    ```
+````
