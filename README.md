@@ -1,7 +1,7 @@
 # JavaScript Learning Track
 
 ````markdown
-## 📝 Conteúdo
+## 📝 Documentação
 
 2. **Dicas de Aprendizagem**
    - Consulte o [Guia JavaScript da MDN](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide) para documentação oficial.
