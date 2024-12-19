@@ -1,0 +1,7 @@
+{
+  "liveServer.settings.port": 5500,
+  "liveServer.settings.root": "/src",
+  "liveServer.settings.ignoreFiles": [".vscode/**", "**/*.json"],
+  "liveServer.settings.NoBrowser": false,
+  "liveServer.settings.CustomBrowser": "chrome"
+}
