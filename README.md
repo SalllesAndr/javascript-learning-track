@@ -34,10 +34,29 @@ Certifique-se de ter as seguintes ferramentas instaladas:
 
 ---
 
+## 📝 Organização do Projeto
+
+O projeto segue uma estrutura de pastas bem definida para facilitar a manutenção e o aprendizado:
+
+````plaintext
+src/
+├── assets/                 # Recursos compartilhados (imagens, ícones, etc.)
+├── aulas/                  # Exercícios e conteúdo prático por aula
+│   ├── aula_01/
+│   │   ├── index.html      # HTML da Aula 01
+│   │   ├── style.css       # Estilos aplicados à Aula 01
+│   │   └── script.js       # Lógica em JavaScript para a Aula 01
+│   ├── aula_02/
+│   │   ├── index.html      # HTML da Aula 02
+│   │   ├── style.css       # Estilos aplicados à Aula 02
+│   │   └── script.js       # Lógica em JavaScript para a Aula 02
+├── docs/                   # Documentação adicional
+└── README.md               # Arquivo de documentação principal
+
 ## 🚀 Como Usar
 
 1. Clone o repositório:
 
    ```bash
    git clone https://github.com/seu-usuario/nome-do-repo.git
-   ```
+````
