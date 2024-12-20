@@ -53,6 +53,40 @@ src/
 ├── docs/                   # Documentação adicional
 └── README.md               # Arquivo de documentação principal
 
+
+
+## 📝 Regras de Identificadores em JavaScript
+
+No JavaScript, os **identificadores** (nomes de variáveis, funções ou propriedades) devem seguir as seguintes regras:
+
+1. **Podem começar com:**
+   - Letras (`a-z`, `A-Z`).
+   - O caractere `$` (cifrão).
+   - O caractere `_` (underline).
+
+2. **Não podem começar com:**
+   - Números (`0-9`).
+
+3. **Podem conter:**
+   - Letras e números após o primeiro caractere.
+   - Acentos e outros caracteres especiais (embora isso não seja recomendado por boas práticas).
+
+4. **Não podem conter:**
+   - Espaços em branco.
+
+5. **Não podem ser palavras reservadas:**
+   - Exemplos de palavras reservadas incluem: `var`, `let`, `const`, `function`, `if`, `else`, etc.
+
+---
+
+### Exemplos Válidos:
+```javascript
+let nome;
+let $preco;
+let _valor;
+let número2; // permitido, mas não recomendado
+
+
 ## 🚀 Como Usar
 
 1. Clone o repositório:
